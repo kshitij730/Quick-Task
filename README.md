@@ -111,5 +111,3 @@ This application is designed for a hybrid cloud deployment: **Vercel** (Frontend
 
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
-
-**Developed with ❤️ by Kshitij Sharma**
